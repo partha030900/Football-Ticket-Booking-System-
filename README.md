@@ -106,9 +106,9 @@ The Entity Relationship Diagram (ERD) illustrates the relationships between the 
 
 
 
-```md
+
 ![ERD](ERD.jpg)
-```
+
 
 ---
 
